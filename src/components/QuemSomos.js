@@ -5,7 +5,7 @@ const QuemSomos = () => {
       <h2 className="section-title" data-aos="fade-up">Quem Somos</h2>
 
         <p className="text-gray-700 text-lg leading-relaxed" data-aos="fade-up" data-aos-delay="100">
-        Cada peça é feita com precisão, estilo e paixão por performance. Desenvolvemos escapamentos, downpipes, pressurizações e coletores personalizados em titânio, inox 304 e alumínio — tudo sob medida pra extrair o melhor do seu carro, no visual e no desempenho.
+        Cada peça é feita com precisão, estilo e paixão por performance. Desenvolvemos escapamentos, downpipes, pressurizações e coletores personalizados em titânio, inox 304 e alumínio — tudo sob medida para extrair o melhor do seu carro, no visual e no desempenho.
 
 
         </p>
