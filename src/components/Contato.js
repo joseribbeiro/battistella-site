@@ -21,7 +21,7 @@ function Contato() {
           </p>
           <p>
             <a
-              href="https://api.whatsapp.com/send?phone=5541937748320"
+              href="https://api.whatsapp.com/send?phone=5541987748320"
               className="btn"
               target="_blank"
               rel="noopener noreferrer"
