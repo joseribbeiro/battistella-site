@@ -1,0 +1,15 @@
+/* src/components/Footer.css */
+.footer {
+    background-color: #ff6f00;    /* laranja sólido */
+    color: #fff;
+  }
+  
+  .footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0.05rem 1rem;          /* padding vertical reduzido */
+    text-align: center;
+    font-size: 0.9rem;
+    border-top: 1px solid rgba(0, 0, 0, 0);
+  }
+  

@@ -1,0 +1,31 @@
+/* src/components/RedesSociais.css */
+.redes-section {
+    padding: 4rem 0;              /* reduz um pouco a folga vertical */
+    background: transparent;
+    text-align: center;
+  }
+  
+  .redes-section .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 1rem;
+  }
+  
+  .redes-section .social-links {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin-top: 1rem;
+  }
+  
+  .redes-section .social-links a {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 1rem;
+    color: #fff;
+    transition: color 0.3s ease;
+  }
+  
+  .redes-section .social-links a:hover {
+    color: #ffa733;
+  }
+  
