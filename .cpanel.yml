@@ -5,3 +5,4 @@ deployment:
     - npm install
     - npm run build
     - cp -R build/. /home2/luci4241/public_html
+ 
