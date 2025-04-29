@@ -1,0 +1,10 @@
+---
+deployment:
+  tasks:
+    # 1) ajusta o PATH pra encontrar seu npm
+    - export PATH=$HOME/npm/bin:$PATH
+    # 2) instala dependências e gera o build React
+    - npm install
+    - npm run build
+    # 3) copia tudo da build para o public_html
+    - cp -R build/. /home2/luci4241/public_html
